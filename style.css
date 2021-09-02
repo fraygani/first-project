@@ -154,3 +154,17 @@ hr{
     padding: 10px;
 
 }
+@media screen and (max-with: 90px){
+    .contact{
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        align-items: center;
+    }
+    .div-form ,
+    .div-title{
+        width: 100%;
+    
+    }
+    .div-title
+}
